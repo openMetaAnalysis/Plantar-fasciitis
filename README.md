@@ -1,4 +1,4 @@
-TPO-agonists-for-ITP
+TPO-agonists for ITP
 ====================
 Below is a forest plot of the *non-reponse* rates.
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/TPO-agonists-for-ITP/master/forest%20plots/TPO%20agonists%20for%20ITP.png "Principle results")
