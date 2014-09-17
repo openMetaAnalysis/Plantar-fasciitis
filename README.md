@@ -1,7 +1,7 @@
 TPO-agonists for ITP
 ====================
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/binary/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
+This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
 This meta-analysis suggests that clinical intervention *is* effective.
 
