@@ -1,13 +1,20 @@
 TPO-agonists for ITP
 ====================
+A data-only living systematic review
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. This analysis combines the placebo controlled studies in Figure 4 and the open-label study in Figure 10 from the previously published meta-analysis (Kuter 2010) because the results are very similar.
 
-This meta-analysis suggests that clinical intervention *is* effective.
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
-Below is a forest plot of the *non-reponse* rates. This analysis combines the placebo controlled studies in Figure 4 and the open-label study in Figure 10 (Kuter 2010) from the previously published meta-analysis because the results are very similar.
+This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/TPO-agonists-for-ITP/master/forest%20plots/TPO%20agonists%20for%20ITP.png "Principle results")
+See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+
+**Results:** Details of the studies included are in the:
+* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+
+The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/TPO-agonists-for-ITP/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
