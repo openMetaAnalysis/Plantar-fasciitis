@@ -14,7 +14,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/TPO-agonists-for-ITP/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://github.com/openMetaAnalysis/TPO-agonists-for-ITP/blob/master/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
