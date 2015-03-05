@@ -33,3 +33,6 @@ No more recent trials identified.
 1. Bussel JB, Provan D, Shamsi T, Cheng G, Psaila B, Kovaleva L, Salama A, Jenkins JM, Roychowdhury D, Mayer B, Stone N, Arning M. Effect of eltrombopag on  platelet counts and bleeding during treatment of chronic idiopathic thrombocytopenic purpura: a randomised, double-blind, placebo-controlled trial. Lancet. 2009 PMID: <a href="http://pubmed.gov/19231632">19231632</a>.
 1. Kuter DJ, Bussel JB, Lyons RM, Pullarkat V, Gernsheimer TB, Senecal FM, Aledort LM, George JN, Kessler CM, Sanz MA, Liebman HA, Slovick FT, de Wolf JT, Bourgeois E, Guthrie TH Jr, Newland A, Wasser JS, Hamburg SI, Grande C, Lefrère F, Lichtin AE, Tarantino MD, Terebelo HR, Viallard JF, Cuevas FJ, Go RS, Henry DH, Redner RL, Rice L, Schipperus MR, Guo DM, Nichol JL. Efficacy of romiplostim  in patients with chronic immune thrombocytopenic purpura: a double-blind randomised controlled trial. Lancet. 2008 PMID: <a href="http://pubmed.gov/18242413">18242413</a>. 
 
+#### Trials undergoing review
+1. Bussel JB, Kuter DJ, Aledort LM, Kessler CM, Cuker A, Pendergrass KB, Tang S, McIntosh J. A randomized trial of avatrombopag, an investigational thrombopoietin-receptor agonist, in persistent and chronic immune thrombocytopenia. Blood. 2014 Jun 19;123(25):3887-94. doi: 10.1182/blood-2013-07-514398. PMID: <a href="http://pubmed.gov/24802775">24802775</a>
+
