@@ -18,8 +18,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://github.com/openMetaAnalysis/Ultrasonic-shock-waves-for-plantar-fasciitis
-/blob/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://github.com/openMetaAnalysis/Ultrasonic-shock-waves-for-plantar-fasciitis/blob/master/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
