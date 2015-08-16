@@ -21,7 +21,7 @@ The forest plot for the primary outcome is below. Additional [forest plots](../.
 ![Principle results](https://github.com/openMetaAnalysis/Ultrasonic-shock-waves-for-plantar-fasciitis/blob/master/forest-plots/Outcome-Primary.png "Principle results")
 
 The meta-regression for the primary outcome is below. Additional [forest plots](../../tree/master/metagressions) of secondary analyses may be available. 
-![Principle results](https://github.com/openMetaAnalysis/Ultrasonic-shock-waves-for-plantar-fasciitis/blob/master/metagressions/Outcome-Primary.png "Principle results")
+![Principle results](https://github.com/openMetaAnalysis/Ultrasonic-shock-waves-for-plantar-fasciitis/blob/master/metagression/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
@@ -37,7 +37,8 @@ Ultrasonic shock waves:
 1. Yin MC, Ye J, Yao M, et al. Is extracorporeal shock wave therapy clinical efficacy for relief of chronic, recalcitrant plantar fasciitis? A systematic review and meta-analysis of randomized placebo or active-treatment controlled trials. Arch Phys Med Rehabil. 2014 PMID: [24662810](http://pubmed.gov/24662810)
 2. Aqil A, Siddiqui MR, Solan M, Redfern DJ, Gulati V, Cobb JP. Extracorporeal shock wave therapy is effective in treating chronic plantar fasciitis: a meta-analysis of RCTs. Clin Orthop Relat Res. 2013 PMID: [23813184](http://pubmed.gov/23813184)
 3. Dizon JN, Gonzalez-Suarez C, Zamora MT, Gambito ED. Effectiveness of extracorporeal shock wave therapy in chronic plantar fasciitis: a meta-analysis.  Am J Phys Med Rehabil. 2013 PMID: [23552334](http://pubmed.gov/23552334)
-3. Thomson CE, Crawford F, Murray GD. The effectiveness of extra corporeal shock wave therapy for plantar heel pain: a systematic review and meta-analysis. BMC Musculoskelet Disord. 2005 PMID: [15847689](http://pubmed.gov/15847689)
+4. Chang KV, Chen SY, Chen WS, Tu YK, Chien KL. Comparative effectiveness of focused shock wave therapy of different intensity levels and radial shock wave therapy for treating plantar fasciitis: a systematic review and network meta-analysis. Arch Phys Med Rehabil. 2012 PMID: [22421623](http://pubmed.gov/22421623)
+5. Thomson CE, Crawford F, Murray GD. The effectiveness of extra corporeal shock wave therapy for plantar heel pain: a systematic review and meta-analysis. BMC Musculoskelet Disord. 2005 PMID: [15847689](http://pubmed.gov/15847689)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
