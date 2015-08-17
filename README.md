@@ -38,5 +38,13 @@ References:
 1. Gollwitzer H, Saxena A, DiDomenico LA, et al. Clinically relevant effectiveness of focused extracorporeal shock wave therapy in the treatment of chronic plantar fasciitis: a randomized, controlled multicenter study. J Bone Joint Surg Am. 2015 PMID: [25948515](http://pubmed.gov/25948515)
 
 #### Trials undergoing review
+None
+
+#### Cited by
+
+This repository is cited by:
+
+1. WikiDoc contributors. Plantar fasciitis. WikiDoc. Aug 17, 2015. Available at: http://www.wikidoc.org/index.php/Plantar_fasciitis_medical_therapy#Ultrasonic_shock_waves. Accessed Aug 17, 2015.
+
 
 
