@@ -20,7 +20,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/Ultrasonic-shock-waves-for-plantar-fasciitis/blob/master/forest-plots/Outcome-Primary.png "Principle results")
 
-The meta-regression for the primary outcome is below. Additional [forest plots](../../tree/master/metagressions) of secondary analyses may be available. 
+The meta-regression for the primary outcome is below. Additional [metaregressions](../../tree/master/metaregression) of secondary analyses may be available. 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Ultrasonic-shock-waves-for-plantar-fasciitis/master/metaregression/Outcome-Primary.png "Principle results")
 
 References:
