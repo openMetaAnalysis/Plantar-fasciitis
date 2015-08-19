@@ -6,7 +6,7 @@ A data-only living systematic review
 
 * [Reconciliation of conclusions with prior meta-analyses](../../tree/master/reconciliation-tables) 
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analyses.(1-4) All studies with at least 100 total patients are included. Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates previously published meta-analyse(s).(1-4) All studies with at least 100 total patients are included. Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
 This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
