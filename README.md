@@ -1,4 +1,4 @@
-Ultrasonic shock waves for plantar fasciitis
+Plantar fasciitis treatment with ultrasonic shock waves
 ====================
 A data-only living systematic review
 
