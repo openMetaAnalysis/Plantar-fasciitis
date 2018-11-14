@@ -26,7 +26,7 @@ The meta-regression for the primary outcome is below. Additional [metaregression
 References:
 ----------------------------------
 ### Systematic review(s)
-####Most recent review at time of last revision of this repository
+#### Most recent review at time of last revision of this repository
 1. Yin MC, Ye J, Yao M, et al. Is extracorporeal shock wave therapy clinical efficacy for relief of chronic, recalcitrant plantar fasciitis? A systematic review and meta-analysis of randomized placebo or active-treatment controlled trials. Arch Phys Med Rehabil. 2014 PMID: [24662810](http://pubmed.gov/24662810)
 2. Aqil A, Siddiqui MR, Solan M, Redfern DJ, Gulati V, Cobb JP. Extracorporeal shock wave therapy is effective in treating chronic plantar fasciitis: a meta-analysis of RCTs. Clin Orthop Relat Res. 2013 PMID: [23813184](http://pubmed.gov/23813184)
 3. Dizon JN, Gonzalez-Suarez C, Zamora MT, Gambito ED. Effectiveness of extracorporeal shock wave therapy in chronic plantar fasciitis: a meta-analysis.  Am J Phys Med Rehabil. 2013 PMID: [23552334](http://pubmed.gov/23552334)
@@ -38,7 +38,7 @@ References:
 1. Gollwitzer H, Saxena A, DiDomenico LA, et al. Clinically relevant effectiveness of focused extracorporeal shock wave therapy in the treatment of chronic plantar fasciitis: a randomized, controlled multicenter study. J Bone Joint Surg Am. 2015 PMID: [25948515](http://pubmed.gov/25948515)
 
 #### Trials undergoing review
-None
+1. Katzap Y, Haidukov M, Berland OM, Itzhak RB, Kalichman L. Additive Effect of Therapeutic Ultrasound in the Treatment of Plantar Fasciitis: A Randomized Controlled Trial. J Orthop Sports Phys Ther. 2018 Nov;48(11):847-855. doi: 10.2519/jospt.2018.8110. PMID: [29996734](http://pubmed.gov/29996734)
 
 #### Cited by
 
